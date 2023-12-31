@@ -13,7 +13,8 @@ This is a project made for Fetching the JSON data from a URL as well as from a f
 # TASK 2:
 
 
-https://github.com/VreetiAggarwal/AssessmentTask1-2/assets/110801536/e4867820-04be-44aa-8335-5e33a6b91cf8
+https://github.com/VreetiAggarwal/AssessmentTask1-2/assets/110801536/6d2928e9-ad21-4774-85df-d1009912b19d
+
 
 <img width="932" alt="image" src="https://github.com/VreetiAggarwal/AssessmentTask1-2/assets/110801536/0d947509-70e9-4b40-88fd-89bd587051f8">
 
