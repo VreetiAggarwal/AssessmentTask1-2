@@ -1,0 +1,24 @@
+.table {
+  margin: 2rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.col {
+  width: 20rem;
+  margin: 0.1rem;
+  font-weight: 200;
+  background-color: #e3f4f4;
+  padding: 1rem;
+}
+
+.title {
+  width: 20rem;
+  margin: 0.1rem;
+  background-color: #c4dfdf;
+  padding: 1rem;
+  font-size: 1.2rem;
+  font-weight: 300;
+}

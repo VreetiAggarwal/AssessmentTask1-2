@@ -1,0 +1,117 @@
+.step1 {
+  display: flex;
+  gap: 2rem;
+  background-color: white;
+  padding: 2rem;
+  padding-right: 10rem;
+}
+
+.flex {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1rem;
+  justify-content: stretch;
+}
+
+.step2 {
+  display: flex;
+  gap: 2rem;
+  background-color: white;
+  padding: 1rem;
+  padding-left: 1rem;
+  padding-right: 3rem;
+}
+
+.input {
+  display: flex;
+}
+
+.step3 {
+  display: flex;
+  gap: 2rem;
+  background-color: white;
+  margin: 0.5rem 1rem 1rem 1rem;
+  padding: 2rem;
+}
+
+.multiple {
+  display: flex;
+  gap: 2rem;
+}
+
+.btn {
+  display: flex;
+  flex-direction: column;
+  padding: 0.5rem;
+  background-color: white;
+  border: solid thin;
+  height: 10rem;
+  width: 8rem;
+}
+
+.step {
+  font-size: 0.9rem;
+  margin-right: 1rem;
+}
+
+.stext {
+  font-size: 0.9rem;
+  margin-right: 2.5rem;
+  width: 10rem;
+}
+
+.text {
+  margin-top: 0.5rem;
+  font-size: 0.7rem;
+}
+
+.select {
+  width: 20rem;
+  font-size: 0.7rem;
+  padding: 0.2rem 0 0.2rem 1rem;
+  margin: 0.2rem;
+}
+
+.btn1 {
+  margin-top: 5rem;
+  background-color: white;
+  border: solid thin;
+  cursor: pointer;
+}
+
+.bnt2 {
+  background-color: white;
+  border: none;
+  margin-bottom: 0.1rem;
+  text-align: left;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.button {
+  display: flex;
+  gap: 1rem;
+  margin-top: 18rem;
+  margin-left: 30rem;
+}
+
+.btn3 {
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.btn4 {
+  background-color: white;
+  border: none;
+  color: red;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.title {
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
