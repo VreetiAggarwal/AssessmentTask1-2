@@ -1,6 +1,6 @@
 This is a project made for Fetching the JSON data from a URL as well as from a file and displaying it in the browser.
 
-#Technologies Used
+# Technologies Used
 - ReactJs 
 
 # TASK 1:
@@ -19,4 +19,4 @@ https://github.com/VreetiAggarwal/AssessmentTask1-2/assets/110801536/e4867820-04
 
 
 - Time taken: 5 hours
-- Functionality: It import the file through file upload button and displays the data according to the display fields selected from the form using multi-select funcionality. - - Then it is displayed according to the descreasing order of popularity.
+- Functionality: It import the file through file upload button and displays the data according to the display fields selected from the form using multi-select funcionality. Then it is displayed according to the descreasing order of popularity.
