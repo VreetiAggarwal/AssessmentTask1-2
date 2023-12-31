@@ -9,8 +9,11 @@ Functionality: It fetches the data from a url which ha json format and the data 
 
 # TASK 2:
 
-https://github.com/VreetiAggarwal/AssessmentTask1-2/assets/110801536/fbad260f-5c75-44e6-b609-b6d1bb2fb559
+
+https://github.com/VreetiAggarwal/AssessmentTask1-2/assets/110801536/e4867820-04be-44aa-8335-5e33a6b91cf8
+
+<img width="932" alt="image" src="https://github.com/VreetiAggarwal/AssessmentTask1-2/assets/110801536/0d947509-70e9-4b40-88fd-89bd587051f8">
 
 
-Time taken: 5.5 hours
+Time taken: 5 hours
 Functionality: It import the file through file upload button and displays the data according to the display fields selected from the form using multi-select funcionality. Then it is displayed according to the descreasing order of popularity.
