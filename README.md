@@ -19,5 +19,5 @@ https://github.com/VreetiAggarwal/AssessmentTask1-2/assets/110801536/6d2928e9-ad
 <img width="932" alt="image" src="https://github.com/VreetiAggarwal/AssessmentTask1-2/assets/110801536/0d947509-70e9-4b40-88fd-89bd587051f8">
 
 
-- Time taken: 5 hours
+- Time taken: 4 hours
 - Functionality: It import the file through file upload button and displays the data according to the display fields selected from the form using multi-select funcionality. Then it is displayed according to the descreasing order of popularity.
